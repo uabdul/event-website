@@ -3,9 +3,15 @@ function About() {
     <div className="about-container">
       <div className="about">
         <p>
-          In his article, “We Need a Plan for How to Have Casual Sex
-          Again,” writer Mathew Rodriguez suggested, “[in] the absence
-          of physical contact, many people have found creative ways to
+          In his article, “
+          <a
+            href="https://www.thebody.com/article/casual-sex-covid-19"
+            target="blank"
+          >
+            We Need a Plan for How to Have Casual Sex Again
+          </a>
+          ,” writer Mathew Rodriguez suggested, “[in] the absence of
+          physical contact, many people have found creative ways to
           express their sexuality...people have used technology to
           have sex in an epidemic in a way that was not available to
           people, especially queer people, during the AIDS epidemic”
@@ -81,10 +87,25 @@ function About() {
         <h1>Acknowledgements</h1>
         <p>
           <i>Sex and the Pandemic</i> is supported in part by funding
-          from a Social Sciences and Humanities Research Council
-          Connection Grant, and the Ryerson University Faculty of
-          Community Services, and the Ryerson University School of
-          Disability Studies.
+          from a{' '}
+          <a
+            href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
+            target="blank"
+          >
+            Social Sciences and Humanities Research Council
+          </a>{' '}
+          Connection Grant, and the Ryerson University{' '}
+          <a href="https://www.ryerson.ca/fcs/" target="blank">
+            Faculty of Community Services
+          </a>
+          , and the Ryerson University{' '}
+          <a
+            href="https://www.ryerson.ca/disability-studies/"
+            target="blank"
+          >
+            School of Disability Studies
+          </a>
+          .
         </p>
       </div>
     </div>
