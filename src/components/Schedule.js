@@ -51,7 +51,10 @@ function Schedule() {
         <div className="session-date">
           {moment.unix(session.start_time).format('MM/DD/YYYY')}
         </div>
-        <a href="https://www.eventbrite.ca/e/sex-and-the-pandemic-tickets-144571046893">
+        <a
+          href="https://www.eventbrite.ca/e/sex-and-the-pandemic-tickets-144571046893"
+          target="blank"
+        >
           <button>Register</button>
         </a>
         <div className="session-time">{`${moment

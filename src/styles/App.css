@@ -210,11 +210,6 @@ html {
   border: solid 1px #e63946;
 }
 
-/* .bio > h1,
-.bio > h2 {
-  margin: 0px;
-} */
-
 .site-footer {
   width: 100%;
   background: #e63946;
@@ -223,7 +218,8 @@ html {
   border-top: solid 2px #2c7da0;
 }
 
-.social-media > svg {
+.social-media > svg,
+.social-media a {
   padding: 5px 10px 5px 10px;
   color: #012a4a;
   font-size: 1.3em;
