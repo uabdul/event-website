@@ -1,0 +1,367 @@
+{
+  "organizer": {
+    "id": 1,
+    "first_name": "Ricky",
+    "last_name": "Varghese",
+    "institution": "Ryerson University",
+    "bio": "Ricky Varghese received his PhD in Sociology of Education from the Ontario Institute for Studies in Education of the University of Toronto in 2014. He serves as an associate editor for <i>Drain: A Journal of Contemporary Art and Culture</i> and has edited a special issue of the journal on the theme of the “Ruin” (2014) and another on “AIDS and Memory” (2016). He has also edited a special issue of the journal <i>Porn Studies</i> on the theme “Porn on the Couch: Sex, Psychoanalysis, and Screen Cultures/Memories” (2019), and more recently co-edited (along with David K. Seitz and Fan Wu) an issue of the <i>Gay and Lesbian Quarterly</i> on the theme “Queer Political Theologies” (2021). He is also the editor of a collection of essays, <i>Raw: PrEP, Pedagogy, and the Politics of Barebacking</i>, which was published by the University of Regina Press in November 2019. Presently, he holds the Tanis Doe Postdoctoral Fellowship in Gender, Disability, and Social Justice (2020-2022) at the School of Disability Studies at Ryerson University. During his tenure at Ryerson, he will be working on two projects – beginning work on a monograph exploring the relationship between masculinity, suicidality, and the death drive and editing another essay collection titled <i>Sex and the Pandemic</i>, the latter of which is expected to be published by the University of Regina Press in early 2023. Alongside his scholarly work, he has also developed a rigorous art writing practice and his writings have appeared in such publications as Canadian Art, esse arts+opinions, C Magazine, and Modern Horizons. Further to his research endeavors and art writing, he is also trained professionally as a social worker, having acquired both his BSW and MSW, and has run a private practice as a psychotherapist in downtown Toronto since 2014. Having started it in September 2017, he is now in the final stages of his psychoanalytic training at the Toronto Institute of Psychoanalysis.",
+    "image": "ricky.jpg"
+  },
+  "sessions": [
+    {
+      "id": 1,
+      "start_time": 1621618200,
+      "end_time": 1621625400,
+      "title": "A Tale of Two Viruses",
+      "papers": [1, 2]
+    },
+    {
+      "id": 2,
+      "start_time": 1624037400,
+      "end_time": 1624044600,
+      "title": "Resistances, Collectivities, Nostalgias",
+      "papers": [3, 4, 5]
+    },
+    {
+      "id": 3,
+      "start_time": 1626456600,
+      "end_time": 1626463800,
+      "title": "Categorical Splits",
+      "papers": [6, 7]
+    },
+    {
+      "id": 4,
+      "start_time": 1629480600,
+      "end_time": 1629487800,
+      "title": "The Weaponization of Safety",
+      "papers": [8, 9, 10]
+    },
+    {
+      "id": 5,
+      "start_time": 1631899800,
+      "end_time": 1631907000,
+      "title": "Forms of Intimacies",
+      "papers": [11, 12, 13]
+    },
+    {
+      "id": 6,
+      "start_time": 1634319000,
+      "end_time": 1634326200,
+      "title": "Variations of the Social",
+      "papers": [14, 15, 16]
+    }
+  ],
+  "speakers": [
+    {
+      "id": 2,
+      "first_name": "Ryan",
+      "last_name": "Conrad",
+      "institution": "York University",
+      "bio": "Ryan Conrad is a SSHRC postdoctoral fellow in the Cinema & Media Studies at York University where he is working on a manuscript entitled <i>Radical VIHsion: Canadian AIDS Film & Video</i>. He is also part-time faculty in the Interdisciplinary Studies in Sexuality program at Concordia University and the Women’s and Gender Studies program at Carleton University. He previously held a postdoctoral fellowship at Carleton University with the AIDS Activist History Project and holds a PhD from the Centre for the Interdisciplinary Studies in Society and Culture at Concordia University. He currently serves as the Vice Chair of the Sexuality Studies Association.",
+      "paper": 2,
+      "session": 1,
+      "image": "ryan.jpg"
+    },
+    {
+      "id": 1,
+      "first_name": "Rinaldo",
+      "last_name": "Walcott",
+      "institution": "University of Toronto",
+      "bio": "Rinaldo Walcott is a professor in the Women and Gender Studies Institute at the University of Toronto. He is the author of <i>On Property</i> (Biblioasis, 2021) and <i>The Long Emancipation: Moving Towards Black Freedom</i> (Duke UP, 2021). His research and teaching is in the area of Black Diaspora Cultural Studies.",
+      "paper": 1,
+      "session": 1,
+      "image": "rinaldo.jpg"
+    },
+
+    {
+      "id": 3,
+      "first_name": "Alexander",
+      "last_name": "McClelland",
+      "institution": "Carleton University",
+      "bio": "Alexander McClelland is an Assistant Professor at the Carleton University Institute of Criminology and Criminal Justice (ICCJ). He focuses his work on the intersections of life, law, and disease, and has developed a range of collaborative and interdisciplinary academic and activist projects to address issues of criminalization, sexual autonomy, surveillance, drug liberation, and the construction of knowledge on HIV. He is the co-creator of the Policing the Pandemic Mapping Project, a public criminology, data justice, and counter-mapping project, which tracks the enforcement of COVID-19 across Canada. He also is a member of the Canadian Coalition to Reform HIV Criminalization and the HIV Justice Network Global Advisory Panel.",
+      "paper": 3,
+      "session": 2,
+      "image": "alexander.jpg"
+    },
+    {
+      "id": 4,
+      "first_name": "Mathew",
+      "last_name": "Rodriguez",
+      "institution": "TheBody",
+      "bio": "Mathew Rodriguez (he/they) is an award-winning queer Latinx essayist, journalist and editor. He is currently the associate editor at TheBody, the internet’s premiere HIV/AIDS news site. His work encompasses the HIV epidemic, queer issues and popular culture. For his work, he has been awarded Web Health Awards, two GLAAD Media Awards, a New York Society of Professional Journalists Deadline Award and an NLGJA Award. His writing has been featured in <i>Slate</i>, <i>Teen Vogue</i>, <i>Out</i>, <i>Mic</i> and <i>The Village Voice</i>. He was one of the founding staff writers at INTO, the LGBTQ+ magazine launched by Grindr.",
+      "paper": 4,
+      "session": 2,
+      "image": "mathew.jpg"
+    },
+    {
+      "id": 5,
+      "first_name": "Theodore (ted)",
+      "last_name": "Kerr",
+      "institution": "The New School",
+      "bio": "Theodore (ted) Kerr is a Canadian-born, Brooklyn-based writer, organizer, and educator. He is an adjunct professor at The New School, and founding member of the What Would an HIV Doula Do? collective. He was the guest editor of What You Don’t Know About AIDS Could Fill a museum, for On Curating. His writing has appeared in the <i>Village Voice</i>, <i>The Advocate</i>, <i>The Body</i>, <i>Poz</i>, <i>CBC</i>, <i>C Magazine</i>, and elsewhere including the academic publications <i>WSQ</i>, <i>QED</i>, and <i>Drain</i>. In 2017 he was an interviewer for <i>Visual Arts and the AIDS Epidemic: An Oral History Project</i> for the Archives of American Art, Smithsonian Institution. With Alexandra Juhasz, he is the co-author of <i>We Are Having This Conversation Now: The Times of AIDS Culture Production</i> (Duke, forthcoming), and is the guest curator of <i>A People’s History of Pandemic: AIDS, Posters, and Stories of Public Health</i> (National Library of Medicine, 2021).",
+      "paper": 5,
+      "session": 2,
+      "image": "theodore.jpg"
+    },
+    {
+      "id": 6,
+      "first_name": "John",
+      "last_name": "Mercer",
+      "institution": "Birmingham City University",
+      "bio": "John Mercer is Professor of Gender and Sexuality at Birmingham City University. He is the author of <i>Objectification: On the Difference between Sex and Sexism</i>, (with Susanna Paasonen, Feona Attwood, Alan McKee and Clarissa Smith) Routledge, 2020, <i>Gay Porn: Representations of Masculinity and Sexuality</i>, I.B. Tauris  2017, <i>Rock Hudson</i>, BFI publishing 2015 and of <i>Melodrama: Genre Style Sensibility</i> (with Martin Shingler) Columbia University Press 2004. He is co-editor of the <i>Journal of Gender Studies</i>, Porn Studies, and editorial board member of Sexualities and Celebrity Studies. He is PI on the AHRC Masculinity, Sex and Popular Culture research network and Routledge book series with Clarissa Smith. His research focusses on the politics of representation, in particular sexual representation, the connections between gay pornography and the making of a gay identity, the social and cultural construction of masculinities, performances of gender in the media and digital culture.",
+      "paper": 6,
+      "session": 3,
+      "image": "john.jpg"
+    },
+    {
+      "id": 7,
+      "first_name": "Jamie",
+      "last_name": "Hakim",
+      "institution": "University of East Anglia",
+      "bio": "Jamie Hakim is a lecturer in media studies at the University of East Anglia/lecturer in culture, media and creative industries at King's College, London. His research interests lie at the intersection of digital cultures, intimacy, embodiment and care. His book <i>Work That Body: Male Bodies in Digital Culture</i> was published by Rowman &amp; Littlefield in 2019. He is principle investigator on the ESRC funded ‘<a href='www.uea.ac.uk/digital-intimacies'>Digital Intimacies: how gay and bisexual men use their smartphones to negotiate their cultures of intimacy</a>’, which is partnered with sexual health organisations the Terrence Higgins Trust, London Friend and Waverley Care. As part of the Care Collective he has co-authored <i>The Care Manifesto: The Politics of Interdependence</i> which has just been published by Verso.",
+      "paper": 6,
+      "session": 3,
+      "image": "jamie.jpg"
+    },
+    {
+      "id": 8,
+      "first_name": "Christien",
+      "last_name": "Garcia",
+      "institution": "University of Toronto",
+      "bio": "Christien Garcia is a University of Toronto Arts and Sciences Postdoctoral Fellow at the Centre for Comparative Literature. His research looks to literature and visual culture to explore questions about the political meanings and limits of sex. He is currently working on a book about queer rooms in literature and film.",
+      "paper": 7,
+      "session": 3,
+      "image": "christien.jpg"
+    },
+    {
+      "id": 9,
+      "first_name": "Damon R.",
+      "last_name": "Young",
+      "institution": "UC Berkeley",
+      "bio": "Damon R. Young is Associate Professor of French and Film & Media at the University of California, Berkeley. He is the author of <i>Making Sex Public and Other Cinematic Fantasies</i> (Theory Q, Duke University Press, 2018), shortlisted for the ASAP Book Prize, and co-editor of “The Cultural Logic of Contemporary Capitalism” (<i>Social Text</i>, 2016) and “Queer Bonds” (<i>GLQ</i>, 2011). He is currently working on two books: one on queer cinema’s figures of refusal, sameness, transformation, and revolution; and another on technological mediations of the self from the written diary through Instagram.",
+      "paper": 8,
+      "session": 4,
+      "image": "damon.jpg"
+    },
+    {
+      "id": 10,
+      "first_name": "Benjamin",
+      "last_name": "Weil",
+      "institution": "University College London",
+      "bio": "Benjamin Weil is a PhD candidate in the Science and Technology Studies Department at University College London. His thesis, supported by the Economic and Social Research Council, is a critical inquiry into the protest of the so-called “gay blood ban” in the UK. He works at the intersection of queer and science and technology studies and is also a founding member of the Decolonise STEM collective.",
+      "paper": 9,
+      "session": 4,
+      "image": "benjamin.jpg"
+    },
+    {
+      "id": 11,
+      "first_name": "Jean-Thomas",
+      "last_name": "Tremblay",
+      "institution": "New Mexico State University",
+      "bio": "Jean-Thomas Tremblay is an Assistant Professor of English at New Mexico State University. They are the author of <i>Breathing Aesthetics</i> (forthcoming from Duke University Press) and, with Andrew Strombeck, a coeditor of <i>Avant-Gardes in Crisis: Art and Politics in the Long 1970s</i> (out September 2021 from SUNY Press). Their scholarship has recently appeared, or will soon appear, in such venues as <i>differences</i>, <i>American Literature</i>, <i>Modernism/modernity</i>, and <i>Discourse</i>. Their academic and public writing is compiled at jeanthomastremblay.me.",
+      "paper": 10,
+      "session": 4,
+      "image": "jeanthomas.jpg"
+    },
+    {
+      "id": 12,
+      "first_name": "Idil",
+      "last_name": "Abdillahi",
+      "institution": "Ryerson University",
+      "bio": "Idil Abdillahi is an Assistant Professor in the School of Social Work at Ryerson University. As a critical interdisciplinary scholar, she has published on a wide array of topics such as: mental health, policing, poverty, HIV/AIDS, organizational development, and several other key policy areas at the intersection of BlackLife and state interruption. Most notably, Idil's cutting-edge research on Blackened madness and anti-Black sanism has informed the current debates on fatal police shootings of Black mad identified people.",
+      "paper": 11,
+      "session": 5,
+      "image": "idil.jpg"
+    },
+    {
+      "id": 13,
+      "first_name": "Marty",
+      "last_name": "Fink",
+      "institution": "Ryerson University",
+      "bio": "Marty Fink is an associate professor of Professional Communication at Ryerson University. They are the author of <i>Forget Burial: HIV Kinships, Disability, and Queer/Trans Narratives of Care</i> (Rutgers UP, 2020) which investigates HIV activism past and present through the lens of caregiving. Fink’s work draws on homo archives and trans literature toward prison abolition and defunding the police.",
+      "paper": 12,
+      "session": 5,
+      "image": "marty.jpg"
+    },
+    {
+      "id": 14,
+      "first_name": "Tali",
+      "last_name": "Cherniavsky",
+      "institution": "Ryerson University",
+      "bio": "Tali Cherniawsky received their Masters in Neuroscience from McGill University in 2016. They currently work for the School of Disability Studies at Ryerson in multiple roles, primarily as access support. They are a swiss-army knife of academic needs fulfillment.",
+      "paper": 12,
+      "session": 5,
+      "image": "tali.jpg"
+    },
+    {
+      "id": 15,
+      "first_name": "Darius",
+      "last_name": "Bost",
+      "institution": "University of Utah",
+      "bio": "Darius Bost is Associate Professor of Ethnic Studies in the School for Cultural and Social Transformation at the University of Utah, and co-editor of Frontiers: A Journal of Women Studies. Bost is the author of <i>Evidence of Being: The Black Gay Cultural Renaissance and the Politics of Violence</i> (Chicago, 2019). Related research on black queer literatures and cultures, black masculinities, and HIV/AIDS has been published in a range of scholarly journals and edited collections. His research has been supported by several prestigious fellowships, most recently the W.E.B. Du Bois Institute Fellowship at Harvard University and the Visiting Scholars Fellowship at the Eccles Centre for American Studies at the British Library. Bost’s current book project is an interdisciplinary study of queer visual cultures across the Anglophone black diaspora from the 1970s to the present.",
+      "paper": 13,
+      "session": 5,
+      "image": "darius.jpg"
+    },
+    {
+      "id": 16,
+      "first_name": "Susanna",
+      "last_name": "Paasonen",
+      "institution": "University of Turku",
+      "bio": "Susanna Paasonen is Professor of Media Studies at University of Turku, Finland. With an interest in studies of sexuality, media, and affect, she is the PI of the research consortium “Intimacy in Data-Driven Culture” (Strategic Research Council at the Academy of Finland) and, most recently, author of <i>Many Splendored Things: Thinking Sex and Play</i> (Goldsmiths Press 2018), <i>NSFW: Sex, Humor and Risk in Social Media</i> (with Kylie Jarrett and Ben Light, MIT Press 2019), <i>Objectification: On the Difference Between Sex and Sexism</i> (with Feona Attwood, Alan McKee, John Mercer, and Clarissa Smith, Routledge 2020), <i>Who’s Laughing Now? Feminist Tactics in Social Media</i> (with Jenny Sundén, MITP 2020) and <i>Dependent, Distracted, Bored: Affective Formations in Networked Media</i> (MITP 2021). She serves on the editorial boards of e.g., <i>New Media & Society</i>, <i>Social Media & Society</i>, <i>Porn Studies</i>, <i>Sexualities</i>, and <i>International Journal of Cultural Studies</i>.",
+      "paper": 14,
+      "session": 6,
+      "image": "susanna.jpg"
+    },
+    {
+      "id": 17,
+      "first_name": "John Paul",
+      "last_name": "Ricco",
+      "institution": "University of Toronto",
+      "bio": "John Paul Ricco is the author of <i>The Logic of the Lure</i>, and <i>The Decision Between Us: art and ethics in the time of scenes</i>. Recent publications include: “Isolation, Loneliness, Solitude: The COVID-19 Pandemic Has Brought Us Too Close Together” (<i>Topia</i>, issue 41, 2020); “Moths to the Flame: Photography and Extinction” in Capitalism and the Camera (<i>Verso</i>, 2021); and “The Virtue and Value of Disappearance” in <i>These Birds of Temptation</i> (K. Verlag, 2021). Co-editor of <i>Parallax</i> 27.1 on “Jean-Luc Nancy: Politics, Poetics, and Erotics of Exscription” (2021), Ricco is also a featured artist in the exhibition “Intimacy: New Queer Art from Berlin and Beyond” at the Schwules Museum, Berlin (until October 2021). He is Professor of Comparative Literature, Art History and Visual Culture at the University of Toronto. Web site: <a href='http://www.johnpaulricco.com'>johnpaulricco.com</a>",
+      "paper": 15,
+      "session": 6,
+      "image": "johnpaul.jpg"
+    },
+    {
+      "id": 18,
+      "first_name": "João",
+      "last_name": "Florêncio",
+      "institution": "University of Exeter",
+      "bio": "João Florêncio is senior lecturer in history of modern and contemporary art and visual culture at the University of Exeter, UK. His interdisciplinary research draws from visual culture, performance studies, queer studies, the posthumanities and the medical humanities in order to probe the permeability of bodies (human and non-human, material and symbolic) to one another, approaching them as porous media interfaces. João is the author of <i>Bareback Porn, Porous Masculinities, Queer Futures: The Ethics of Becoming-Pig</i> (Routledge, 2020).",
+      "paper": 16,
+      "session": 6,
+      "image": "joao.jpg"
+    }
+  ],
+  "papers": [
+    {
+      "id": 1,
+      "title": "Open to Infection: Two Viruses and Black-Queer-Life",
+      "abstract": "In this paper I explore the ongoing HIV/AIDS epidemic for Black queer people alongside the coronavirus pandemic. In the paper I make a case for thinking about how these two viruses collide at the site of Black queer life and I pursue the “social life” of the viruses for Black life more generally. I argue that the social conditions of Black queer life leaves us open to infection and that the infection is the virus and something more. To address the something more I turn to a critique of syndemics as it has developed out of HIV/AIDS research to ask a series of questions concerning why the social life of the two viruses differently infect Black queer people in substantively different ways than the viruses infect others.",
+      "speakers": [1],
+      "speaker_last_name": "Walcott",
+      "session": 1
+    },
+    {
+      "id": 2,
+      "title": "Distinct & Dissimilar: HIV, COVID-19, and the Desire for Meaning",
+      "abstract": "In the Summer of 2020, I received an excited email announcing a call for papers for a special issue of the scholarly journal <i>Culture Health &amp; Sexuality</i> with the theme of COVID-19 and HIV. This call was just one of many instances where links were being made between HIV and COVID-19 among overlapping circles of activists, artists, and scholars in the queer networks to which I belong. I have refused such framings as largely unhelpful epistemologically and potentially dangerous for the ways in which such comparisons become conflations that elide significant dissimilarities between the two ongoing epidemics. Working from Paula Treichler’s and Susan Sontag’s theoretical interventions around meaning making and illness, this paper thinks through the stark differences between HIV and COVID-19 and why the search for meaning in some communities has led to suspect analogous claims to similarity and consonance. Furthermore, I will dwell on why the comparison to HIV has been made while Ebola, MERS, SARS, Avian flu (H5N1), and Swine flu (H1N1), all of which have significantly more in common with COVID-19 epidemiologically, have not been more central to making sense of COVID-19.",
+      "speakers": [2],
+      "speaker_last_name": "Conrad",
+      "session": 1
+    },
+    {
+      "id": 3,
+      "title": "Policing Pandemics and Ongoing Resistance",
+      "abstract": "There are many conversations and comparisons between historical and ongoing responses to the HIV epidemic and current responses to COVID-19. Canada is a leading country in the world for criminalizing people living with HIV, a practice which targets many queer men, women, Black and Indigenous people of colour. This punitive legacy has laid the groundwork for the intensified policing of public and private life under COVID-19 regulations, snitch-lines, and forms of carceral public health surveillance and coercion. The combined criminalization of COVID-19 and HIV intensifies insecurity and uncertainty for queers, Black, Indigenous and people of colour, people living with HIV, people who sell and who use drugs, and people who sell sex. Based on academic and activist projects examining the intersections of police, the criminal justice system, and public health institutions, this talk will trace the ways HIV and COVID-19 have been policed and criminalized across Canada, and how impacted communities have collectively responded.",
+      "speakers": [3],
+      "speaker_last_name": "McClelland",
+      "session": 2
+    },
+    {
+      "id": 4,
+      "title": "When AIDS Nostalgia Gets in the Way of Fighting COVID",
+      "abstract": "Early in the United States’ COVID-19 pandemic, ACT UP New York shared an image on their social media that played on the iconic Gran Fury “Silence = Death” image. The reworked image showed an orange, rather than pink, triangle that said “Trump = Death.” Another image showed a face mask with words riffing on the famous David Wojnarowicz. It read, “If I die of COVID-19, forget burial, just drop my body on the steps of Mar-a-Lago.” Fierce backlash followed. Some people felt that COVID-19 and HIV should not be compared. They saw the new images as disrespecting AIDS history. Whether or not COVID and HIV should be compared became a fierce debate. Central to that debate was the way many queer people involved felt that the AIDS epidemic of the 1980s had ended and that it was an epidemic that had solely and largely affected the queer community. However, there was a failure to see that COVID and HIV were becoming twin epidemics In this talk, we’ll dissect the unwillingness to draw parallels between the two epidemics, interrogate those parallels, talk about how the AIDS epidemic has become “nostalgicized” and what it means when we sanctify images associated with the AIDS epidemics.",
+      "speakers": [4],
+      "speaker_last_name": "Rodriguez",
+      "session": 2
+    },
+    {
+      "id": 5,
+      "title": "COMMUNITY VIRAL LOAD: Living Collectively with Viruses",
+      "abstract": "Since the start of the COVID-19 pandemic in North America, writer and organizer Theodore (ted) Kerr has been working independently and with the collective What Would an HIV Doula Do? to explore the relationship between HIV/AIDS and the coronavirus. Specifically, the work has focused on: cultural responses to illness; connections (or lack thereof) between HIV and COVID-19; and the possibilities that can come from seeing illness as a collective experience. These explorations have taken the form of essays, conversations, public events, online publications, social media posts, and more. As part of Kerr’s ongoing practice, he is interested in making space for conversation, and figuring out how in the age of social distancing, we can continue to find ways to be positively impacted by strangers.",
+      "speakers": [5],
+      "speaker_last_name": "Kerr",
+      "session": 2
+    },
+    {
+      "id": 6,
+      "title": "How to ”Not” Have Sex in a Pandemic: COVID-19 and Online Gay Male Sexual Cultures",
+      "abstract": "There is a growing public health debate around the impacts of isolation exacerbated by enforced social distancing and how to minimise the attendant social and physical harms. This will continue, even with the relaxing of lockdown measures. This talk emerges out of an AHRC funded research project led by Ben Light of Salford University and John Mercer, Jamie Hakim and Karenza Moore that engages with these questions by looking at an area vital to a society’s health and wellbeing – sexual and romantic life (WHO, 2006). We focus on the coping strategies of gay men under crisis conditions. Hook up applications are a key area where sex and romance has been negotiated over the past two decades, a trend which has rapidly intensified as a result of the social distancing measures that have been put in place during the pandemic. Gay males are an interesting group to look at the challenges posed here as they have been early adopters of these technologies, using them to connect for long term relationships, one-night stands, and sex in public spaces.This group comprises individuals already disproportionately affected by the mental health problems associated with isolation and social stigma. A <a href='http://lgbt.foundation/coronavirus/hiddenfigures'>report</a> by the LGBT Foundation speaks of a significant and detrimental effects felt by this community arising from the lockdown. Our project aims to discover how gay men are coping in a crisis and where they might be particularly vulnerable; how well-equipped charity and voluntary sectors are viz their know-how to enable them to engage appropriately and the role played by hook up apps, both in terms of the health messages they deliver and the activity they enable. We will explore some of the challenges of this research and out preliminary findings.",
+      "speakers": [6, 7],
+      "speaker_last_name": "Mercer",
+      "session": 3
+    },
+    {
+      "id": 7,
+      "title": "Variants: On Melancholia and Moralism",
+      "abstract": "In his 2002 volume, <i>Melancholia and Moralism</i>, the art historian and critic Douglas Crimp confronted the conservative gay politics that replaced the radical AIDS activism of the late 1980s and early 1990s. The text demonstrates how the cumulative losses from HIV resulted in a kind of melancholia, as Sigmund Freud defines it, whereby gay men increasingly identified with the moralistic repudiation of homosexuality by the wider society. Revisiting this work, my presentation explores how COVID-19 has reanimated these dynamics of morality, sexuality, and shame in the present era. Looking in particular at the figure of the circuit queen or party boy, I explore how public discourses and media reports about the irresponsibility of gay men (often coming from gay men themselves) feeds into political attitudes that individualize the pandemic and pit sexual pleasure and social responsibility against one another. The danger of this melancholia is that it detracts from the structural determinants of the pandemic and the attendant exasperation of health and economic inequalities of race, class, and gender that is arguably the pandemic’s greatest toll.",
+      "speakers": [8],
+      "speaker_last_name": "Garcia",
+      "session": 3
+    },
+    {
+      "id": 8,
+      "title": "Sex and Contagion, or White Fragility (on Safe)",
+      "abstract": "During a pandemic, the body appears vulnerable to a viral invader; proximity becomes deadly and the fantasy of individual autonomy is confronted with the material fact of species-being. Pandemics galvanize cultural anxieties about the contamination of the body politic, activating (quasi-fascist) racialized and sexualized fears of what is improper, out-of-place, unclean. In North America, the HIV crisis of the 1980s and ‘90s anchored this fear around gay male sex and poor Black communities; the discourses around COVID connect it to Asianness. Both pandemics elevate bourgeois domesticity to the status of an ethical (concealing a moral) imperative, revealing the fantasmatic link between the walled-off private sphere, sexual, and national integrity. This talk briefly considers the association of viral contagion with racialized sexuality in a larger cultural imaginary before turning to the New Queer Cinema of the 1990s, a movement that emerged out of AIDS activism, alongside the rise of queer theory. I revisit films by Marlon Riggs, John Greyson, and Todd Haynes that deployed art as activism, challenging the idea of sex as a private matter. An outlier, Haynes’s film Safe (1995) deals explicitly neither with the virus nor with sexuality, but explores the existential consequences of the body’s permeability to its environment, through a study of white femininity in crisis. Offering neither critique nor reparative fantasy, the film speaks to us obliquely across the decades about our ongoing calamity, and the power of art to refigure it.",
+      "speakers": [9],
+      "speaker_last_name": "Young",
+      "session": 4
+    },
+    {
+      "id": 9,
+      "title": "The “Good” Coronavirus Citizen, The “COVIDIOT”, and the Privilege of #StayAtHome",
+      "abstract": "The coronavirus pandemic has incited a new regime of biological citizenship. Through a widespread citizen-led disciplinary regime of hashtagging – #stayathome – and peer surveillance, citizens encourage one another to practice social distancing and strict self-isolation in a bid to “flatten the curve” and to mitigate the coronavirus pandemic. Individuals are also encouraged to monitor and punish those who violate these norms: #COVIDIOTS who fail to stay at home. This disciplinary regime has been taken up with alacrity amongst certain gay men who have used social media to scrutinise the sexual practices of other gay men who are, in their eyes, continuing to hook up and ‘party on’ through the pandemic. However, this dichotomy between the ‘good’ and ‘bad’ coronavirus citizen is deeply flawed. I contend that ‘good pandemic practice’ is structured, in part, by race, class, gender, nationality, ability, and sexuality, and that we must recognise that failures to ‘stay at home’ are instances where agency is inflated or agency is exploited. Equitable approaches to flattening the curve, I conclude, involve highlighting the broader structures and issues that limit ‘good pandemic practice’ and embracing the spirit of what Douglas Crimp (1987) described as “promiscuity in an epidemic,” with an emphasis on minimising coronavirus transmissions, rather than the rule of pure asceticism.",
+      "speakers": [10],
+      "speaker_last_name": "Weil",
+      "session": 4
+    },
+    {
+      "id": 10,
+      "title": "A Queer Theory of Benign Respiratory Variations",
+      "abstract": "The pollution, weaponization, and monetization of air and breath amount to a crisis in breathing; these historical processes came into sharp focus in 2020, with spectacular manifestations of police violence and structural and environmental racism, two mutually reinforcing modalities, one accelerative and the other chronic, of the necropolitics of anti-Blackness. Whereas the philosopher Achille Mbembe, in the context of the COVID-19 pandemic, envisions redress by positing a “universal right to breathe,” this talk takes a different approach to a revolutionary transition out of systems of respiratory subjugation, one that deviates from rights-based liberal ethics. Taking as its primary case study Trisha Low’s narration of a sadomasochistic “waterboarding” workshop in Socialist Realism (2019), this talk develops a concept of “benign respiratory variation,” a term it adapts from Gayle Rubin’s influential queer theory of “benign sexual variations.” Magnifying the friction between the two incommensurable modes of relation that are sex and breath, this text gleans from queer, disability, Black, Indigenous, and environmental studies parameters for accessible and accountable breathing publics—publics that accommodate nonfatal, and indeed life-affirming and life-sustaining, varieties of breathlessness; publics wherein breathing is greater than an occupational hazard of contemporary life.",
+      "speakers": [11],
+      "speaker_last_name": "Tremblay",
+      "session": 4
+    },
+    {
+      "id": 11,
+      "title": "Confinement and Intimacies",
+      "abstract": "",
+      "speakers": [12],
+      "speaker_last_name": "Abdillahi",
+      "session": 5
+    },
+    {
+      "id": 12,
+      "title": "Hot for Zoom: Cruising for Access Intimacy across Pandemics",
+      "abstract": "Our collaborative arts-based presentation thinks through the use of Zoom as a platform for queer and trans connections during pandemic times. Extending from previous work on HIV activism, queer media studies, and harm reduction, this talk turns to the Zoom platform itself as an object of study (and of homo cruising). Marty’s inability to Zoom, and Tali’s role as an access facilitator for Zoom, forms a queer relationship that folds together trans labor and faggy cruising as a site of access intimacy. We examine safe(r) sex across historical periods and media platforms to apply lessons from early HIV activism to contemporary media studies. We ask how these digital tools, primarily used to sustain capitalism, can also become sources of access or barriers to pleasure. We therefore play with Zoom to critique its promise to allow us to continue to work and to fuck, even though many of us experience barriers to connecting this way. We ask how technology can instead be used to find sex and to form queer and trans connections that undercut rather than promote neoliberal business-as-usual in the face of antiblack racism, state genocide, and the access barriers made apparent by COVID-19.",
+      "speakers": [13, 14],
+      "speaker_last_name": "Fink",
+      "session": 5
+    },
+    {
+      "id": 13,
+      "title": "Rethinking Sex: Black Queer Literature in the Time of HIV/AIDS",
+      "abstract": "In 2001, the Centers for Disease Control and Prevention released the results of its Young Men’s Study suggesting that one in seven black men would be infected with HIV each year, three in ten already had HIV, and virtually none of them knew they had it. In the wake of this study, black queer activists Colin Robinson and George Ayala edited <i>Think Again</i> (2003), produced by the AIDS Project Los Angeles (APLA) in collaboration with the New York State Black Gay Network. The success of <i>Think Again</i> inspired a series of anthologies produced by the APLA in conjunction with various AIDS service and community-based organizations, spanning the first decade of the 21st century. This series of anthologies demonstrates how literary and cultural production has remained a core element of the community response to the escalating HIV rates among black gay and bisexual men, and connects black gay male literature produced in the early era of the AIDS to the black queer literary production that emerged after the 1996 invention of Highly Active Retroviral Therapy (HAART). This presentation examines  representations of sexual expressivity in <i>Think Again</i> to demonstrate how black queer literature collapses modern categorical distinctions—such as safe/unsafe, man/woman, past/present, straight/gay, human/ nonhuman—that undergird mainstream public health and media discourses about HIV/AIDS.  In so doing, I demonstrate how creativity and the imagination have acted as material forces that produce alternative orders of knowledge about black queer sex in the time of HIV/AIDS, and show how the anthology form indexes modes of embodiment and sociality that exceed the pornotropic capture of black sexuality.",
+      "speakers": [15],
+      "speaker_last_name": "Bost",
+      "session": 5
+    },
+    {
+      "id": 14,
+      "title": "Isolated Bodies, Governed Exchanges",
+      "abstract": "The COVID-19 pandemic has made our mundane dependencies on networked media strikingly visible. As many of us are stuck at home with little physical mobility, online platforms of all kinds, while being part of the infrastructures of everyday life well before the year 2020, function as infrastructures of intimacy through which we can come together, stay in touch, maintain distances and proximities, and possibly fall out. At the same time, the increasingly aggressive deplatforming of sex from social media results in the effacement of both sexual imagery and sexual communication from the palette of acceptable exchanges, resulting in networked sociability void of sex. This talk examines the stakes involved in this for the different parties involved – social media platforms, advertisers, and users in lockdown – and inquires after the perceived value (or lack thereof) attributed to sex in networked exchanges governed by platforms’ community standards and terms of use.",
+      "speakers": [16],
+      "speaker_last_name": "Paasonen",
+      "session": 6
+    },
+    {
+      "id": 15,
+      "title": "Queer Solitude: Dean Sameshina’s “being alone”",
+      "abstract": "Over the course of the COVID-19 pandemic, Berlin-based American artist Dean Sameshina has been posting photographic images to “homosexuals_anonymous”—the Instagram account that he maintains—images taken in nearly empty bathhouses and sex clubs, in which a single solitary and penumbral figure is only partially visible in the shadows. Sameshina’s series of images—most carrying the caption “being alone”—is an opportunity to think again, and further, about queer solitude, and the spaces, places, and architectures of anonymity, separation, imperceptibility, and waiting that have constituted and continue to distinguish a queer perverse aesthetic ethos in which being alone is a source of erotic-sexual sustenance all its own. It is in this way, that I trace a queer genealogy of some of the prevailing conditions of the current pandemic, and to think of the latter as something other than entirely forms of deprivation or negation, but instead of attraction. From a user’s image feed on a social media platform, to these nearly abandoned spaces of sexual abandonment, to the feelings of isolation that many people are experiencing today, how might sharing in solitude be an ethical means to grieve, attend to the minor detail, and love the stranger that each of us is to one another?",
+      "speakers": [17],
+      "speaker_last_name": "Ricco",
+      "session": 6
+    },
+    {
+      "id": 16,
+      "title": "Viral Intimacies: Sex or the Replication of Undoing",
+      "abstract": "In the same year—1987—when Leo Bersani published “Is the Rectum a Grave?,” Jack Fritscher wrote an obituary for the artist Al Shapiro, who had been the art director for the US gay leather magazine <i>Drummer</i>. While Bersani’s text reflected on the relationship between gay sex and sacrifice, Fritscher’s obituary laid its hopes on the certainty of our rebirth in the aftermath of the AIDS crisis. Departing from those two texts, the rhetorics of which may be seen to speak to either side of the antisocial versus relational debate that informed two somewhat distinct approaches to queer scholarship, in this talk I will deploy the “viral” as a metaphor for grappling with the tension between survival and undoing that lays at the heart of the sacrificial ethics of sex. At a time when the interpellation to remain physically distanced from one another seems to require the abandonment our own collective sexual undoing, at a time when political, economic, ecological and health crises seem to have collectively turned many of us off, reflecting on the sacrificial imperative of sex—and on both its risks and speculative potential—remains not only an important task but, I’d argue, a life-saving one.",
+      "speakers": [18],
+      "speaker_last_name": "Florencio",
+      "session": 6
+    }
+  ]
+}
