@@ -52,6 +52,11 @@ function Bios() {
               </HashLink>
             </p>
           )}
+          {speaker.image_credit && (
+            <p>
+              <strong>Photo Credit</strong>: {speaker.image_credit}
+            </p>
+          )}
         </div>
       );
     });

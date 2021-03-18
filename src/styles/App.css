@@ -6,8 +6,6 @@ html {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  /* min-width: 400px; */
-  /* text-align: left; */
   font-family: 'Lato', sans-serif;
   font-size: 0.7em;
   background-color: #012a4a;
@@ -24,6 +22,12 @@ html {
   font-family: 'Inter', sans-serif;
   text-transform: uppercase;
   font-weight: 900;
+}
+
+.site-header a {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
 }
 
 .site-header div {
@@ -83,6 +87,7 @@ html {
 .site-content {
   width: 80%;
   text-align: justify;
+  font-size: 1.1em;
 }
 
 .site-content a {
@@ -235,9 +240,21 @@ html {
 .site-footer a:hover {
   color: #2c7da0;
 }
+
+.logos {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.logos img {
+  max-width: 50%;
+}
 @media (max-width: 700px) {
   .site-content {
-    width: 90%;
+    width: 96%;
   }
   .site-nav {
     display: inline-flex;
@@ -256,9 +273,20 @@ html {
   .bio h1 {
     margin: 10px 0px 10px 0px;
   }
+
+  .logos {
+    flex-direction: column;
+  }
+
+  .logos img {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 650px) {
+  .site-content {
+    font-size: 1.3em;
+  }
   .site-nav a {
     font-size: 1.3em;
   }

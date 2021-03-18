@@ -1,8 +1,12 @@
+import { NavLink } from 'react-router-dom';
+
 function Header() {
   return (
     <header className="site-header">
       <div>
-        Sex <span className="amp">and</span> the Pandemic
+        <NavLink exact to="/">
+          Sex <span className="amp">and</span> the Pandemic
+        </NavLink>
       </div>
     </header>
   );
