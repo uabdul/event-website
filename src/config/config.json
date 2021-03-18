@@ -91,7 +91,8 @@
       "bio": "Mathew Rodriguez (he/they) is an award-winning queer Latinx essayist, journalist and editor. He is currently the associate editor at TheBody, the internet’s premiere HIV/AIDS news site. His work encompasses the HIV epidemic, queer issues and popular culture. For his work, he has been awarded Web Health Awards, two GLAAD Media Awards, a New York Society of Professional Journalists Deadline Award and an NLGJA Award. His writing has been featured in <i>Slate</i>, <i>Teen Vogue</i>, <i>Out</i>, <i>Mic</i> and <i>The Village Voice</i>. He was one of the founding staff writers at INTO, the LGBTQ+ magazine launched by Grindr.",
       "paper": 4,
       "session": 2,
-      "image": "mathew.jpg"
+      "image": "mathew.jpg",
+      "image_credit": "Brian Cahill"
     },
     {
       "id": 5,
@@ -101,7 +102,8 @@
       "bio": "Theodore (ted) Kerr is a Canadian-born, Brooklyn-based writer, organizer, and educator. He is an adjunct professor at The New School, and founding member of the What Would an HIV Doula Do? collective. He was the guest editor of What You Don’t Know About AIDS Could Fill a museum, for On Curating. His writing has appeared in the <i>Village Voice</i>, <i>The Advocate</i>, <i>The Body</i>, <i>Poz</i>, <i>CBC</i>, <i>C Magazine</i>, and elsewhere including the academic publications <i>WSQ</i>, <i>QED</i>, and <i>Drain</i>. In 2017 he was an interviewer for <i>Visual Arts and the AIDS Epidemic: An Oral History Project</i> for the Archives of American Art, Smithsonian Institution. With Alexandra Juhasz, he is the co-author of <i>We Are Having This Conversation Now: The Times of AIDS Culture Production</i> (Duke, forthcoming), and is the guest curator of <i>A People’s History of Pandemic: AIDS, Posters, and Stories of Public Health</i> (National Library of Medicine, 2021).",
       "paper": 5,
       "session": 2,
-      "image": "theodore.jpg"
+      "image": "theodore.jpg",
+      "image_credit": "Wiafe Mensah-Bonsu"
     },
     {
       "id": 6,
@@ -181,12 +183,13 @@
       "bio": "Marty Fink is an associate professor of Professional Communication at Ryerson University. They are the author of <i>Forget Burial: HIV Kinships, Disability, and Queer/Trans Narratives of Care</i> (Rutgers UP, 2020) which investigates HIV activism past and present through the lens of caregiving. Fink’s work draws on homo archives and trans literature toward prison abolition and defunding the police.",
       "paper": 12,
       "session": 5,
-      "image": "marty.jpg"
+      "image": "marty.jpg",
+      "image_credit": "JJ Levine"
     },
     {
       "id": 14,
       "first_name": "Tali",
-      "last_name": "Cherniavsky",
+      "last_name": "Cherniawsky",
       "institution": "Ryerson University",
       "bio": "Tali Cherniawsky received their Masters in Neuroscience from McGill University in 2016. They currently work for the School of Disability Studies at Ryerson in multiple roles, primarily as access support. They are a swiss-army knife of academic needs fulfillment.",
       "paper": 12,
@@ -211,7 +214,8 @@
       "bio": "Susanna Paasonen is Professor of Media Studies at University of Turku, Finland. With an interest in studies of sexuality, media, and affect, she is the PI of the research consortium “Intimacy in Data-Driven Culture” (Strategic Research Council at the Academy of Finland) and, most recently, author of <i>Many Splendored Things: Thinking Sex and Play</i> (Goldsmiths Press 2018), <i>NSFW: Sex, Humor and Risk in Social Media</i> (with Kylie Jarrett and Ben Light, MIT Press 2019), <i>Objectification: On the Difference Between Sex and Sexism</i> (with Feona Attwood, Alan McKee, John Mercer, and Clarissa Smith, Routledge 2020), <i>Who’s Laughing Now? Feminist Tactics in Social Media</i> (with Jenny Sundén, MITP 2020) and <i>Dependent, Distracted, Bored: Affective Formations in Networked Media</i> (MITP 2021). She serves on the editorial boards of e.g., <i>New Media & Society</i>, <i>Social Media & Society</i>, <i>Porn Studies</i>, <i>Sexualities</i>, and <i>International Journal of Cultural Studies</i>.",
       "paper": 14,
       "session": 6,
-      "image": "susanna.jpg"
+      "image": "susanna.jpg",
+      "image_credit": "Liisa Takala"
     },
     {
       "id": 17,

@@ -19,14 +19,15 @@ function Schedule() {
         });
       }
 
-      let speakers = foundSpeakers.map((speaker) => {
-        return (
-          <HashLink to={`/bios#author-bio-${speaker.id}`}>
-            {speaker.name}
-          </HashLink>
-        );
-      });
-
+      let speakers = foundSpeakers
+        .map((speaker) => {
+          return (
+            <HashLink to={`/bios#author-bio-${speaker.id}`}>
+              {speaker.name}
+            </HashLink>
+          );
+        })
+        .reduce((prev, curr) => [prev, ' and ', curr]);
       return (
         <div>
           <p>

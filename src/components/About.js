@@ -1,3 +1,5 @@
+import sshrclogo from '../assets/sshrc-logo.jpg';
+import fcslogo from '../assets/fcs-logo.png';
 function About() {
   return (
     <div className="about-container">
@@ -107,6 +109,10 @@ function About() {
           </a>
           .
         </p>
+        <div className="logos">
+          <img src={sshrclogo} alt="" />
+          <img src={fcslogo} alt="" />
+        </div>
       </div>
     </div>
   );
