@@ -5,7 +5,8 @@
     "last_name": "Varghese",
     "institution": "Ryerson University",
     "bio": "Ricky Varghese received his PhD in Sociology of Education from the Ontario Institute for Studies in Education of the University of Toronto in 2014. He serves as an associate editor for <i>Drain: A Journal of Contemporary Art and Culture</i> and has edited a special issue of the journal on the theme of the “Ruin” (2014) and another on “AIDS and Memory” (2016). He has also edited a special issue of the journal <i>Porn Studies</i> on the theme “Porn on the Couch: Sex, Psychoanalysis, and Screen Cultures/Memories” (2019), and more recently co-edited (along with David K. Seitz and Fan Wu) an issue of the <i>Gay and Lesbian Quarterly</i> on the theme “Queer Political Theologies” (2021). He is also the editor of a collection of essays, <i>Raw: PrEP, Pedagogy, and the Politics of Barebacking</i>, which was published by the University of Regina Press in November 2019. Presently, he holds the Tanis Doe Postdoctoral Fellowship in Gender, Disability, and Social Justice (2020-2022) at the School of Disability Studies at Ryerson University. During his tenure at Ryerson, he will be working on two projects – beginning work on a monograph exploring the relationship between masculinity, suicidality, and the death drive and editing another essay collection titled <i>Sex and the Pandemic</i>, the latter of which is expected to be published by the University of Regina Press in early 2023. Alongside his scholarly work, he has also developed a rigorous art writing practice and his writings have appeared in such publications as Canadian Art, esse arts+opinions, C Magazine, and Modern Horizons. Further to his research endeavors and art writing, he is also trained professionally as a social worker, having acquired both his BSW and MSW, and has run a private practice as a psychotherapist in downtown Toronto since 2014. Having started it in September 2017, he is now in the final stages of his psychoanalytic training at the Toronto Institute of Psychoanalysis.",
-    "image": "ricky.jpg"
+    "image": "ricky.jpg",
+    "image_description": "A close-up photo of a south Asian man with brown eyes and a visual disability around his chin, smiling at the camera, his eyes crinkling at the corners. His hair and beard are dark and close cut. He is wearing a dark green and blue plaid shirt open at the top. The picture is taken indoors with a mural of people riding horses and a pendant light in the background."
   },
   "sessions": [
     {
@@ -60,7 +61,8 @@
       "bio": "Ryan Conrad is a SSHRC postdoctoral fellow in the Cinema & Media Studies at York University where he is working on a manuscript entitled <i>Radical VIHsion: Canadian AIDS Film & Video</i>. He is also part-time faculty in the Interdisciplinary Studies in Sexuality program at Concordia University and the Women’s and Gender Studies program at Carleton University. He previously held a postdoctoral fellowship at Carleton University with the AIDS Activist History Project and holds a PhD from the Centre for the Interdisciplinary Studies in Society and Culture at Concordia University. He currently serves as the Vice Chair of the Sexuality Studies Association.",
       "paper": 2,
       "session": 1,
-      "image": "ryan.jpg"
+      "image": "ryan.jpg",
+      "image_description": "A photograph from the waist up of a white man with brown eyes and close cut brown hair and a stubbly beard. He is looking at the camera with a hint of a smile. He is wearing a white button-up shirt, the top button undone with a loosened black tie. He is standing in front of a uniform grey background."
     },
     {
       "id": 1,
@@ -70,7 +72,8 @@
       "bio": "Rinaldo Walcott is a professor in the Women and Gender Studies Institute at the University of Toronto. He is the author of <i>On Property</i> (Biblioasis, 2021) and <i>The Long Emancipation: Moving Towards Black Freedom</i> (Duke UP, 2021). His research and teaching is in the area of Black Diaspora Cultural Studies.",
       "paper": 1,
       "session": 1,
-      "image": "rinaldo.jpg"
+      "image": "rinaldo.jpg",
+      "image_description": "A black and white chest-up photo of a Black man looking at the camera with a neutral expression. He has dark eyes and a short moustache and beard. His hair is long in tight dreads and falls around his shoulders. He is wearing a dark button down shirt and a dark tie with a light-coloured pattern mid-way down of a small symbol on top of horizontal stripes. He is in front of a brick wall. "
     },
 
     {
@@ -81,7 +84,8 @@
       "bio": "Alexander McClelland is an Assistant Professor at the Carleton University Institute of Criminology and Criminal Justice (ICCJ). He focuses his work on the intersections of life, law, and disease, and has developed a range of collaborative and interdisciplinary academic and activist projects to address issues of criminalization, sexual autonomy, surveillance, drug liberation, and the construction of knowledge on HIV. He is the co-creator of the Policing the Pandemic Mapping Project, a public criminology, data justice, and counter-mapping project, which tracks the enforcement of COVID-19 across Canada. He also is a member of the Canadian Coalition to Reform HIV Criminalization and the HIV Justice Network Global Advisory Panel.",
       "paper": 3,
       "session": 2,
-      "image": "alexander.jpg"
+      "image": "alexander.jpg",
+      "image_description": "A close-up photograph of a white man with green eyes looking directly at the camera with a neutral expression. He has short brown hair, a moustache and stubble, and is wearing glasses with tinted grey-brown transparent rims. He is wearing multiple layers of a dark blue jacket over light blue button-up with a navy t-shirt underneath. He is in front of a light green wall indoors."
     },
     {
       "id": 4,
@@ -92,7 +96,8 @@
       "paper": 4,
       "session": 2,
       "image": "mathew.jpg",
-      "image_credit": "Brian Cahill"
+      "image_credit": "Brian Cahill",
+      "image_description": "A close-up photo of a brown-skinned latino man with brown eyes, smiling with a closed mouth and looking at the camera. His dark hair is full of curls on top and shaved on the sides connecting to a short beard and moustache. He has dark brown thick-rimmed glasses and two silver hoops and a stud in his visible ear. He is wearing a knit sweater in shades of purple, blue, and pink, over top of a leopard print t-shirt. He is in front of a light purple wall."
     },
     {
       "id": 5,
@@ -103,7 +108,8 @@
       "paper": 5,
       "session": 2,
       "image": "theodore.jpg",
-      "image_credit": "Wiafe Mensah-Bonsu"
+      "image_credit": "Wiafe Mensah-Bonsu",
+      "image_description": "Black and white photograph of a white man, with moustache and stubble. He is looking at the camera behind large aviator sunglasses, his mouth parted, and a dark ballcap with large white capital letters that read, “CARE.” The photograph appears at though there might be multiple overlaid exposures or perhaps there is a pane of glass with multiple reflections. Images of an apartment building and chain link fence appears blended over the man. White space overlays the left vertical third of the photo, with the apartment building and fence overlaid on the right, fading towards white at the top. "
     },
     {
       "id": 6,
@@ -113,7 +119,8 @@
       "bio": "John Mercer is Professor of Gender and Sexuality at Birmingham City University. He is the author of <i>Objectification: On the Difference between Sex and Sexism</i>, (with Susanna Paasonen, Feona Attwood, Alan McKee and Clarissa Smith) Routledge, 2020, <i>Gay Porn: Representations of Masculinity and Sexuality</i>, I.B. Tauris  2017, <i>Rock Hudson</i>, BFI publishing 2015 and of <i>Melodrama: Genre Style Sensibility</i> (with Martin Shingler) Columbia University Press 2004. He is co-editor of the <i>Journal of Gender Studies</i>, Porn Studies, and editorial board member of Sexualities and Celebrity Studies. He is PI on the AHRC Masculinity, Sex and Popular Culture research network and Routledge book series with Clarissa Smith. His research focusses on the politics of representation, in particular sexual representation, the connections between gay pornography and the making of a gay identity, the social and cultural construction of masculinities, performances of gender in the media and digital culture.",
       "paper": 6,
       "session": 3,
-      "image": "john.jpg"
+      "image": "john.jpg",
+      "image_description": "An outdoor chest-up photograph of a light-skinned man with a neutral expression. He is bald with a salt and pepper moustache and a full white beard. He is wearing thick black rimmed glasses with brown flecks. He is wearing a navy sweater and a green camo jacket with a brown leather shoulder strap for a bag that is out of frame. The picture is taken outside, standing in front of a tree with no leaves on a city sidewalk. On one side of him, there is a street with traffic, and on the other there is a tall building with a red awning and a bike rack outside."
     },
     {
       "id": 7,
@@ -123,7 +130,8 @@
       "bio": "Jamie Hakim is a lecturer in media studies at the University of East Anglia/lecturer in culture, media and creative industries at King's College, London. His research interests lie at the intersection of digital cultures, intimacy, embodiment and care. His book <i>Work That Body: Male Bodies in Digital Culture</i> was published by Rowman &amp; Littlefield in 2019. He is principle investigator on the ESRC funded ‘<a href='www.uea.ac.uk/digital-intimacies' target='blank'>Digital Intimacies: how gay and bisexual men use their smartphones to negotiate their cultures of intimacy</a>’, which is partnered with sexual health organisations the Terrence Higgins Trust, London Friend and Waverley Care. As part of the Care Collective he has co-authored <i>The Care Manifesto: The Politics of Interdependence</i> which has just been published by Verso.",
       "paper": 6,
       "session": 3,
-      "image": "jamie.jpg"
+      "image": "jamie.jpg",
+      "image_description": "A waist-up photograph of a light-skinned man with brown eyes, close shaven brown hair, moustache, and stubble. He is looking at the camera with a small smile. He is wearing a dark green plaid shirt with the sleeves rolled up, and is standing in front of a dark green door inside next to green patterned wallpaper."
     },
     {
       "id": 8,
@@ -133,7 +141,8 @@
       "bio": "Christien Garcia is a University of Toronto Arts and Sciences Postdoctoral Fellow at the Centre for Comparative Literature. His research looks to literature and visual culture to explore questions about the political meanings and limits of sex. He is currently working on a book about queer rooms in literature and film.",
       "paper": 7,
       "session": 3,
-      "image": "christien.jpg"
+      "image": "christien.jpg",
+      "image_description": "A chest-up photograph of a light-skinned man with brown eyes smiling with full teeth at the camera. He has a dark brown full beard and moustache with medium length dark brown hair, mostly covered by a backwards navy ballcap. He has a small silver stud in his ear and is wearing a North Face zip-up jacket. The photograph is taken outside and there are out-of-focus trees in the background."
     },
     {
       "id": 9,
@@ -143,7 +152,8 @@
       "bio": "Damon R. Young is Associate Professor of French and Film & Media at the University of California, Berkeley. He is the author of <i>Making Sex Public and Other Cinematic Fantasies</i> (Theory Q, Duke University Press, 2018), shortlisted for the ASAP Book Prize, and co-editor of “The Cultural Logic of Contemporary Capitalism” (<i>Social Text</i>, 2016) and “Queer Bonds” (<i>GLQ</i>, 2011). He is currently working on two books: one on queer cinema’s figures of refusal, sameness, transformation, and revolution; and another on technological mediations of the self from the written diary through Instagram.",
       "paper": 8,
       "session": 4,
-      "image": "damon.jpg"
+      "image": "damon.jpg",
+      "image_description": "A black and white chest-up photograph of a light-skinned man with dark eyes looking directly at the camera with a serious expression. He has short dark hair, beard, and moustache. He is wearing a button-up shirt with the top buttons undone and a metallic chain necklace. The photograph is high contrast and the background is a uniform white that matches the highlights of his skin."
     },
     {
       "id": 10,
@@ -153,7 +163,8 @@
       "bio": "Benjamin Weil is a PhD candidate in the Science and Technology Studies Department at University College London. His thesis, supported by the Economic and Social Research Council, is a critical inquiry into the protest of the so-called “gay blood ban” in the UK. He works at the intersection of queer and science and technology studies and is also a founding member of the Decolonise STEM collective.",
       "paper": 9,
       "session": 4,
-      "image": "benjamin.jpg"
+      "image": "benjamin.jpg",
+      "image_description": "A close-up photograph of a light-skinned man looking to his left with a neutral expression. He has curly brown hair, brown moustache and beard, blue/green eyes, and a metallic septum piercing. He is wearing a black t-shirt. The photo is taken outside and bright golden light falls across the right side of his face as he looks towards the other direction. He appears to be sitting in a park with green grass and trees on a clear day, with the golden light suggesting a bright sunset."
     },
     {
       "id": 11,
@@ -163,7 +174,8 @@
       "bio": "Jean-Thomas Tremblay is an Assistant Professor of English at New Mexico State University. They are the author of <i>Breathing Aesthetics</i> (forthcoming from Duke University Press) and, with Andrew Strombeck, a coeditor of <i>Avant-Gardes in Crisis: Art and Politics in the Long 1970s</i> (out September 2021 from SUNY Press). Their scholarship has recently appeared, or will soon appear, in such venues as <i>differences</i>, <i>American Literature</i>, <i>Modernism/modernity</i>, and <i>Discourse</i>. Their academic and public writing is compiled at jeanthomastremblay.me.",
       "paper": 10,
       "session": 4,
-      "image": "jeanthomas.jpg"
+      "image": "jeanthomas.jpg",
+      "image_description": "A black and white chest-up photo of a light-skinned person looking at the camera with a neutral expression. They have short dark hair and stubble and are wearing round metallic glasses. They are wearing a dark button-up shirt with the top button undone. The background is out-of-focus but appears to be a building."
     },
     {
       "id": 12,
@@ -173,7 +185,8 @@
       "bio": "Idil Abdillahi is an Assistant Professor in the School of Social Work at Ryerson University. As a critical interdisciplinary scholar, she has published on a wide array of topics such as: mental health, policing, poverty, HIV/AIDS, organizational development, and several other key policy areas at the intersection of BlackLife and state interruption. Most notably, Idil's cutting-edge research on Blackened madness and anti-Black sanism has informed the current debates on fatal police shootings of Black mad identified people.",
       "paper": 11,
       "session": 5,
-      "image": "idil.jpg"
+      "image": "idil.jpg",
+      "image_description": "A close-up photo of a Black woman with brown eyes. She is looking directly at the camera with impeccable makeup; sculpted brows, tight lined eyes, and glossy deep pink lips. Some of her face is out of frame. She is bald and has on a forest green top with two gold necklaces: one that reads, “Idil,” and the other is the African continent. The photograph is taken indoors and the out-of-focus background has plants and framed pictures against a dark red wall."
     },
     {
       "id": 13,
@@ -184,7 +197,8 @@
       "paper": 12,
       "session": 5,
       "image": "marty.jpg",
-      "image_credit": "JJ Levine"
+      "image_credit": "JJ Levine",
+      "image_description": "A photograph from the waist up of a white queer person with blue eyes and dark brown hair - full of curls on top and close shaven on the sides leading to a short beard and moustache. They are looking at the camera with a closed-mouth smile. They have a long silver earring in one ear and are wearing a short-sleeve blue button-up shirt with a white speckle pattern and the top button undone. Tattoos are visible on their upper right arm - shapes that appear like a broken eggshell - appearing from beneath the sleeve. They are standing outside in front of a brick wall."
     },
     {
       "id": 14,
@@ -194,7 +208,8 @@
       "bio": "Tali Cherniawsky received their Masters in Neuroscience from McGill University in 2016. They currently work for the School of Disability Studies at Ryerson in multiple roles, primarily as access support. They are a swiss-army knife of academic needs fulfillment.",
       "paper": 12,
       "session": 5,
-      "image": "tali.jpg"
+      "image": "tali.jpg",
+      "image_description": "A close-up indoor photograph of a white fat queer person’s face. They are looking to their right with a slight smile. They have dark brown eyebrows and bleached medium length wavy blonde hair. Golden eyeshadow catches the light with green eyeliner around their blue eyes. They are wearing muted pink lipstick and a dark top, standing in front of a forest green wall."
     },
     {
       "id": 15,
@@ -204,7 +219,8 @@
       "bio": "Darius Bost is Associate Professor of Ethnic Studies in the School for Cultural and Social Transformation at the University of Utah, and co-editor of Frontiers: A Journal of Women Studies. Bost is the author of <i>Evidence of Being: The Black Gay Cultural Renaissance and the Politics of Violence</i> (Chicago, 2019). Related research on black queer literatures and cultures, black masculinities, and HIV/AIDS has been published in a range of scholarly journals and edited collections. His research has been supported by several prestigious fellowships, most recently the W.E.B. Du Bois Institute Fellowship at Harvard University and the Visiting Scholars Fellowship at the Eccles Centre for American Studies at the British Library. Bost’s current book project is an interdisciplinary study of queer visual cultures across the Anglophone black diaspora from the 1970s to the present.",
       "paper": 13,
       "session": 5,
-      "image": "darius.jpg"
+      "image": "darius.jpg",
+      "image_description": "A photograph from the waist up of a Black man smiling at the camera, with dimples on both cheeks. He has brown eyes and short black hair with a mustache and short beard just on his chin. He is wearing an orange and blue plaid shirt and is standing indoors in front of a large window on a bright sunny day with a city out-of-focus in the background."
     },
     {
       "id": 16,
@@ -215,7 +231,8 @@
       "paper": 14,
       "session": 6,
       "image": "susanna.jpg",
-      "image_credit": "Liisa Takala"
+      "image_credit": "Liisa Takala",
+      "image_description": "A chest-up photograph of a light-skinned woman with blue eyes looking at the camera with a hint of a smile. She has chin-length straight brown hair with blonde and perhaps red highlights. She peers out behind her windswept hair, which falls partly in front of her face and also flows out to the side. She is wearing a black coat with 3 visible black butterflies on the lapels. She appears to be outside in front of a wall painted red on top and robins egg blue on the bottom."
     },
     {
       "id": 17,
@@ -225,7 +242,8 @@
       "bio": "John Paul Ricco is the author of <i>The Logic of the Lure</i>, and <i>The Decision Between Us: art and ethics in the time of scenes</i>. Recent publications include: “Isolation, Loneliness, Solitude: The COVID-19 Pandemic Has Brought Us Too Close Together” (<i>Topia</i>, issue 41, 2020); “Moths to the Flame: Photography and Extinction” in Capitalism and the Camera (<i>Verso</i>, 2021); and “The Virtue and Value of Disappearance” in <i>These Birds of Temptation</i> (K. Verlag, 2021). Co-editor of <i>Parallax</i> 27.1 on “Jean-Luc Nancy: Politics, Poetics, and Erotics of Exscription” (2021), Ricco is also a featured artist in the exhibition “Intimacy: New Queer Art from Berlin and Beyond” at the Schwules Museum, Berlin (until October 2021). He is Professor of Comparative Literature, Art History and Visual Culture at the University of Toronto. Web site: <a href='http://www.johnpaulricco.com' target='blank'>johnpaulricco.com</a>",
       "paper": 15,
       "session": 6,
-      "image": "johnpaul.jpg"
+      "image": "johnpaul.jpg",
+      "image_description": "A close-up black and white photograph a light-skinned man, looking at the camera with a closed mouth smile and gentle lines around his eyes. He has close shaven dark hair and a salt and pepper beard and moustache. The background is blurry and out of focus, but it appears to be taken outside with a dark tree set against a bright sky."
     },
     {
       "id": 18,
@@ -235,7 +253,8 @@
       "bio": "João Florêncio is senior lecturer in history of modern and contemporary art and visual culture at the University of Exeter, UK. His interdisciplinary research draws from visual culture, performance studies, queer studies, the posthumanities and the medical humanities in order to probe the permeability of bodies (human and non-human, material and symbolic) to one another, approaching them as porous media interfaces. João is the author of <i>Bareback Porn, Porous Masculinities, Queer Futures: The Ethics of Becoming-Pig</i> (Routledge, 2020).",
       "paper": 16,
       "session": 6,
-      "image": "joao.jpg"
+      "image": "joao.jpg",
+      "image_description": "A chest-up photograph of a light-skinned man with brown eyes smiling wide at the camera, his eyes crinkling. He has short bleached blonde hair and a dark brown beard and moustache. He is wearing black-rimmed glasses and has a metallic septum piercing and a stud on the inner part of his ear. He has on a dark navy jacket and a silver chain necklace, and is standing in front of dense green plants."
     }
   ],
   "papers": [

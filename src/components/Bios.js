@@ -54,7 +54,13 @@ function Bios() {
           )}
           {speaker.image_credit && (
             <p>
-              <strong>Photo Credit</strong>: {speaker.image_credit}
+              <strong>Image Credit</strong>: {speaker.image_credit}
+            </p>
+          )}
+          {speaker.image_description && (
+            <p>
+              <strong>Image Description</strong>:{' '}
+              {speaker.image_description}
             </p>
           )}
         </div>
@@ -75,6 +81,12 @@ function Bios() {
         </h1>
         <h2>{organizer.institution}</h2>
         <div dangerouslySetInnerHTML={{ __html: organizer.bio }} />
+        {organizer.image_description && (
+          <p>
+            <strong>Image Description</strong>:{' '}
+            {organizer.image_description}
+          </p>
+        )}
       </div>
       <h1>About the Speakers</h1>
       {speakerBios}
