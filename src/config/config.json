@@ -14,28 +14,32 @@
       "start_time": 1621618200,
       "end_time": 1621625400,
       "title": "A Tale of Two Viruses",
-      "papers": [1, 2]
+      "papers": [1, 2],
+      "video": "https://youtu.be/un9YnrKwKYw"
     },
     {
       "id": 2,
       "start_time": 1624037400,
       "end_time": 1624044600,
       "title": "Resistances, Collectivities, Nostalgias",
-      "papers": [3, 4, 5]
+      "papers": [3, 4, 5],
+      "video": "https://youtu.be/2CVzU102Hlw"
     },
     {
       "id": 3,
       "start_time": 1626456600,
       "end_time": 1626463800,
       "title": "Categorical Splits",
-      "papers": [6, 7]
+      "papers": [6, 7],
+      "video": "https://youtu.be/YXudXEulXmc"
     },
     {
       "id": 4,
       "start_time": 1629480600,
       "end_time": 1629487800,
       "title": "The Weaponization of Safety",
-      "papers": [8, 9, 10]
+      "papers": [8, 9, 10],
+      "video": "https://youtu.be/PUvzu4F4LGw"
     },
     {
       "id": 5,
@@ -372,8 +376,8 @@
     },
     {
       "id": 15,
-      "title": "Queer Solitude: Dean Sameshina’s “being alone”",
-      "abstract": "Over the course of the COVID-19 pandemic, Berlin-based American artist Dean Sameshina has been posting photographic images to “homosexuals_anonymous”—the Instagram account that he maintains—images taken in nearly empty bathhouses and sex clubs, in which a single solitary and penumbral figure is only partially visible in the shadows. Sameshina’s series of images—most carrying the caption “being alone”—is an opportunity to think again, and further, about queer solitude, and the spaces, places, and architectures of anonymity, separation, imperceptibility, and waiting that have constituted and continue to distinguish a queer perverse aesthetic ethos in which being alone is a source of erotic-sexual sustenance all its own. It is in this way, that I trace a queer genealogy of some of the prevailing conditions of the current pandemic, and to think of the latter as something other than entirely forms of deprivation or negation, but instead of attraction. From a user’s image feed on a social media platform, to these nearly abandoned spaces of sexual abandonment, to the feelings of isolation that many people are experiencing today, how might sharing in solitude be an ethical means to grieve, attend to the minor detail, and love the stranger that each of us is to one another?",
+      "title": "Queer Solitude: Dean Sameshima’s “being alone”",
+      "abstract": "Over the course of the COVID-19 pandemic, Berlin-based American artist Dean Sameshima has been posting photographic images to “homosexuals_anonymous”—the Instagram account that he maintains—images taken in nearly empty bathhouses and sex clubs, in which a single solitary and penumbral figure is only partially visible in the shadows. Sameshima's series of images—most carrying the caption “being alone”—is an opportunity to think again, and further, about queer solitude, and the spaces, places, and architectures of anonymity, separation, imperceptibility, and waiting that have constituted and continue to distinguish a queer perverse aesthetic ethos in which being alone is a source of erotic-sexual sustenance all its own. It is in this way, that I trace a queer genealogy of some of the prevailing conditions of the current pandemic, and to think of the latter as something other than entirely forms of deprivation or negation, but instead of attraction. From a user’s image feed on a social media platform, to these nearly abandoned spaces of sexual abandonment, to the feelings of isolation that many people are experiencing today, how might sharing in solitude be an ethical means to grieve, attend to the minor detail, and love the stranger that each of us is to one another?",
       "speakers": [17],
       "speaker_last_name": "Ricco",
       "session": 6
